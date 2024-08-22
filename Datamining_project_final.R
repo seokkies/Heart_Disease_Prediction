@@ -1,5 +1,5 @@
 # Data load
-heart <- read.csv("C:/Users/yejun/Documents/stat/heart.csv", header=TRUE)
+heart <- read.csv("heart.csv", header=TRUE) #heart.csv 경로
 str(heart)
 
 
